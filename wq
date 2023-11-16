@@ -1,0 +1,30 @@
+[33mcommit 5d5af19309bc15ed188ac2b3b4bb2f4b3f824544[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: heeyeoncau <150767816+heeyeoncau@users.noreply.github.com>
+Date:   Tue Nov 14 14:27:55 2023 +0900
+
+    Update calculator.py
+
+[33mcommit 425e7e663382114085bd187814a4b2c18a0b23e9[m
+Merge: ad93534 6e38193
+Author: soso <opensoso@gmail.com>
+Date:   Tue Nov 14 14:24:33 2023 +0900
+
+    Merge branch 'main' of https://github.com/heeyeoncau/Open_Source
+
+[33mcommit ad93534840d0886066536937ccfc544cd1b4719f[m
+Author: soso <opensoso@gmail.com>
+Date:   Tue Nov 14 14:23:55 2023 +0900
+
+    Create readme.md
+
+[33mcommit 6e3819363d89eb6760305bde67b476939f8c8586[m
+Author: heeyeoncau <150767816+heeyeoncau@users.noreply.github.com>
+Date:   Tue Nov 14 14:18:43 2023 +0900
+
+    Update calculator.py
+
+[33mcommit 5a36ec1f6748bc0aa669199d3e144f92e6fd20dd[m
+Author: soso <opensoso@gmail.com>
+Date:   Tue Nov 14 13:20:07 2023 +0900
+
+    Add title comments and Creating inclass-log
